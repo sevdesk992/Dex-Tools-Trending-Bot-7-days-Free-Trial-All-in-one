@@ -20,8 +20,10 @@ Dextools, Coinmarketcap, Pinksale, Coinsniper, Coinhunt, and more exciting featu
 
 🔮 Future-Ready: Stay ahead with regular updates and dedicated support.
 
-Download from here or from this website its 7 days free Trial: https://www.trendingbot.store/
 
 
-https://github.com/sevdesk992/Dex-Tools-Trending-Bot-7-days-Free-Trial-All-in-one/assets/171271457/86f81be4-9d52-4337-968f-d89b81c9100a
+
+
+https://github.com/sevdesk992/Dex-Tools-Trending-Bot-7-days-Free-Trial-All-in-one/assets/171271457/7e0ec046-77c2-4373-a4ff-dac54326a7f9
+
 
